@@ -1,0 +1,25 @@
+// Bismillah
+#include <bits/stdc++.h>
+#define ll long long
+using namespace std;
+
+int main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        char a, b;
+        cin >> a >> b;
+
+        int an = a - '0';
+        int bn = b - '0';
+
+        cout << an + bn << endl;
+    }
+    return 0;
+}
+// Alhamdulillah
