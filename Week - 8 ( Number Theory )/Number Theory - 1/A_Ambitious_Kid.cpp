@@ -7,18 +7,19 @@ int main()
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
-    int n;
-    cin>>n;
+        cout<<"Hello world";
+    // int n;
+    // cin>>n;
 
-    vector<int> a(n);
-    int mn = INT_MAX ;
-    for (int i = 0; i < n; i++)
-    {
-        cin>>a[i];
-        mn = min(mn , abs(a[i]));
-    }
+    // vector<int> a(n);
+    // int mn = INT_MAX ;
+    // for (int i = 0; i < n; i++)
+    // {
+    //     cin>>a[i];
+    //     mn = min(mn , abs(a[i]));
+    // }
     
-    cout<<mn;
+    // cout<<mn;
     return 0;
 }
 // Alhamdulillah 
