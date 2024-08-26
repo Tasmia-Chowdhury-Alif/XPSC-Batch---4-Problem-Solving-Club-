@@ -1,0 +1,2 @@
+GCD of a and b is = 8
+LCM of a and b is = 48
